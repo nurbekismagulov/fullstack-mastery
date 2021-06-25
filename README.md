@@ -65,5 +65,5 @@ Deadline for this section is **not** June 13th. Probable deadline is September 1
 - [ ] 4. [Read through Khalil Stemmer Blog](https://khalilstemmler.com/articles)
 - [ ] 5. [Timur Shemsedinov All Videos](https://www.youtube.com/c/TimurShemsedinov/videos)
 - [ ] 6. [Read DDIA](https://dataintensive.net/)
-- [ ] 7. [Read Solidbook](https://solidbook.io/) - current progress 35/425
+- [ ] 7. [Read Solidbook](https://solidbook.io/) - current progress 61/425
 - [ ] 8. [Testing Javascript](https://testingjavascript.com/)
